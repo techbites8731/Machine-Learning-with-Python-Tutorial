@@ -6,6 +6,7 @@ featured in the examples. That way if you follow the codes given here it will be
 logic behind the coding
 
 Follow the folders in below order:
+ - INTRODUCTION
  - SKLEARN
  - DATA GENERATION
  - INTERESTING DISTRIBUTIONS
