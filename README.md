@@ -1,4 +1,4 @@
-# AI-DataSets
+# Machine Learning
 
 This repository was created to help anyone who study the book "Machine Learning with Python Tutorial by Bernd Klein", and to 
 follow along the principals and examples easily. I ustilized the book to learn coding as well as to learn more about the datasets 
