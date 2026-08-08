@@ -8,6 +8,10 @@ logic behind the coding
 Follow the folders in below order:
  - INTRODUCTION
  - SKLEARN
+     - IRIS
+     - DIGITS
+     - WINE
+     - OLIVETTI
  - DATA GENERATION
  - INTERESTING DISTRIBUTIONS
  - DATA PREPARATION
