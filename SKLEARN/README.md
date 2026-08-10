@@ -12,7 +12,7 @@ downloaded using the tools in:<br><b>sklearn.datasets.load_*</b><br><br>
 
 • <b>Generated Data</b>:<br>
   there are several datasets which are generated from models based on a random seed. 
-  These are available in the
+  These are available in:<br>
   <b>sklearn.datasets.make_*</b><br><br>
   
 You can explore the available dataset loaders, fetchers, and generators using IPython's tab-completion functionality. After importing the datasets submodule from sklearn , type datasets.load_ or datasets.fetch_ or datasets.make_<br>
