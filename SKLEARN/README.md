@@ -21,7 +21,7 @@ to see a list of available functions.<br><br>
 
 STRUCTURE OF DATA AND LABELS Data in scikit-learn is in most cases saved as two-dimensional Numpy arrays with the shape (n, m) . Many algorithms also accept scipy.sparse matrices of the same shape.<br><br>
 
-from sklearn.datasets import load_
-from sklearn.datasets import fetch_
-from sklearn.datasets import make_
-from sklearn import datasets
+from sklearn.datasets import load_<br>
+from sklearn.datasets import fetch_<br>
+from sklearn.datasets import make_<br>
+from sklearn import datasets<br>
