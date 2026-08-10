@@ -1,7 +1,7 @@
 <b>AI-DataSets</b><br>
 This folder contains code samples and changed codes from the book "Machine Learning with Python Tutorial by Bernd Klein". I ustilized the book to learn coding as well as to learn more about the datasets featured in the examples. That way if you follow the codes given here it will be very easy to understand the principles given in the book and the datasets itself.<br><br>
 
-Scikit-learn makes available a host of datasets for testing learning algorithms. They come in three flavors:<br> • <b>Packaged Data</b>: <br>these small datasets are packaged with the scikit-learn installation, and can be
+Scikit-learn makes available a host of datasets for testing learning algorithms. They come in three flavors:<br><br> • <b>Packaged Data</b>: <br>these small datasets are packaged with the scikit-learn installation, and can be
 downloaded using the tools in:<br><b>sklearn.datasets.load_*</b><br><br>
 
 • <b>Downloadable Data</b>:<br>
